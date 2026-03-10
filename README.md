@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Aril
 
-<!--
-**arlchrlrhmn-lang/arlchrlrhmn-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Android Developer & Data Enthusiast 
+- Passionate about building apps and exploring tech trends
+- Currently learning advanced Android & local data persistence
+- Love reading tech, science, and business books 
+- Coffee lover ☕
 
-Here are some ideas to get you started:
+## Skills
+- **Programming:** Kotlin, Java
+- **Frameworks:** Android Jetpack, Firebase
+- **Tools:** Git, GitHub, Figma, Excel, Android Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [E-Library App](https://github.com/thabibussalim-byte/createELibrarykoleb) – App to manage library books
+- 
+
+## How to reach me
+- Email: arlchrlrhmn@gmail.com
+- LinkedIn:https://www.linkedin.com/in/chairil-rahman-70322227a/
+- Instagram: [@aril_insta](https://instagram.com/aril_insta)
+
+## Fun Fact
+- I love experimenting with new tech stacks
+- Always up for coding challenges
+- Coffee enthusiast
