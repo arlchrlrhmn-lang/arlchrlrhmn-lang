@@ -19,7 +19,7 @@
 ## How to reach me
 - Email: arlchrlrhmn@gmail.com
 - LinkedIn:https://www.linkedin.com/in/chairil-rahman-70322227a/
-- Instagram: [@aril_insta](https://instagram.com/aril_insta)
+- Instagram: ch41rill_
 
 ## Fun Fact
 - I love experimenting with new tech stacks
